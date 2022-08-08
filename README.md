@@ -9,3 +9,4 @@ Mokėti ištrinti
 … pradėti iš naujo …
 Pasileiskite skaidrėse rodytus pavydžius.
 Gitbash tutorial: https://www.youtube.com/watch?v=Zl7npywCB84 
+fytdtyd
